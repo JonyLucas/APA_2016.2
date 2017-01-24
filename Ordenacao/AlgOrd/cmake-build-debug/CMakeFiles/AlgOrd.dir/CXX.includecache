@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UFPB/P5/Analise e Projetos de Algoritmos/Exercicios/Ordenacao/AlgOrd/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+

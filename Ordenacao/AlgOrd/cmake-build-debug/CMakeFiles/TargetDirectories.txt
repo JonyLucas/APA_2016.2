@@ -1,0 +1,3 @@
+D:/UFPB/P5/Analise e Projetos de Algoritmos/Exercicios/Ordenacao/AlgOrd/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UFPB/P5/Analise e Projetos de Algoritmos/Exercicios/Ordenacao/AlgOrd/cmake-build-debug/CMakeFiles/AlgOrd.dir
+D:/UFPB/P5/Analise e Projetos de Algoritmos/Exercicios/Ordenacao/AlgOrd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
